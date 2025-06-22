@@ -1,0 +1,41 @@
+{
+    "diversity": {
+        "rnn": {
+            "char_diversity": 0.013556618819776715,
+            "bigram_diversity": 0.1404068607897886,
+            "trigram_diversity": 0.4561053471667997
+        },
+        "lstm": {
+            "char_diversity": 0.012360446570972886,
+            "bigram_diversity": 0.13163143199042682,
+            "trigram_diversity": 0.40263367916999204
+        }
+    },
+    "meteor": {
+        "rnn": 0.22710577864838397,
+        "lstm": 0.2539062913573099
+    },
+    "generated_samples": {
+        "seeds": [
+            "I love you",
+            "When I was",
+            "All I want",
+            "She said",
+            "In my dreams"
+        ],
+        "rnn": [
+            "I love you, it's gutount, i hull my boith\nyou dod a allame it be il tanting scrost and with me home\nand muth-os (hey, of the sell of your face\nsha mathe caress on your friends\nfenles in the okgonn to the room\nand you'e saying momenting rosy gordan\ni make a cunned ard bad?\nbut i can't tell you in the dillise\nwhole pooknond\nstryin'\nand say; all i do goade me?\nthey ran\nwe are so surrehs of me\ni can call me with it's a kponton agoun around\now you were geverine mant\nthe caveretsed\nwhen you fell in that, ah\ni r",
+            "When I was turning homeanh-oh, oh, oh\nwe could have boon that you're gresteachohis up the frozlly spive awous\nhe's been liletaunt\nand i know what walt me like rmalin'?\nhis tiget\nlond might have to fickin' me in scared\neverybody crowce the way the kies, i was stanes in me\nbut the ond simele\nyou and i got just toon me\nand so if i don't know why\nwhat woued so down that bean telirabom there with redlone\nlike the neck away\nyou see at me\nsometein' in my head\nthis is bemtrings\namficet you nonna ghes time i'm bec",
+            "All I wantay and babe lasting lyot's so called you to thes lasey\nit's a custer\nbut i was jodrseabig from the back back to minr blovelon's would from the pery\nbut i said its like just come (eed, wat)\nbaby)\nif you're collanf and an things (oul) high in the dirt-hard his home\nand i'm a bothen wearin' out when you rears andys got in my man\nthis is the patey\ni leave you in hands tied\nof the flulring out on a ceilt misterabcowis)\ndid you tofitert my here partidis time in, a dream\nyou couldn't remember, take som",
+            "She said that we don't believe\nlook an you was beann ferdey than fyoh\nto burned of frue\nand now you're so prochnme mimes, but where it that to be where i what a mastach for out?\nfirmn gires what you wart to know\nstill toon your nom\nbut i'm  oyous that you just and you were griins time\n'cause i'm juknod in't be\noh, ouros\nthe finlxever into by the now\n'cous, to kill mo\nbut just something through to stay, ohrougp to keep it\ni'm with you when with you\nwe'll have there am she warts\nwe'll don't know\n(he day)\n",
+            "In my dreams (hoad\nbut you hele your bedont a and i wish i moved\ni'm mornin' (you goof to cace a verole mares\nthey sfind undous themeltan\nare we in the mlla\nlook what you think his alers\nbut why'd you sien\nif i don't know ut\njust last so now\noh, we heart brake you than? in there's a\noh, loaknne has cars\nit out the paad?\nit's becours purty stying you and it?,, i'm nike your fouch\ni want you\ni won't trice the lofn tayiny and tra but past face when you had to know what you bees the crozcphoss\nbut i tires like "
+        ],
+        "lstm": [
+            "I love your face (someone, this love, but we are twenty-two)\ntheir wideshed thing know she's so in another lip\nthe bave sad knees, i'm feelin' waitin'\nfrom 'cause all the misstake in the face\nthen you thought i can't even want a wear short\nand all enouda?\noh, well\nbaby, when the slamling wings, old me (covered you)\nwe were fighting that trouble\nshe was there as the smile creasing\noh, and i had a man\na caught to hard to me\nyou thought i'm not the dest of it words\nwoman, what we've got a beautiful, through ",
+            "When I was went some and tragedy look what you could see step in prashed\ni walk away, even in the closet you you\nnow we got back every time\nweren the girl, i love something\nand all the cotits of dreams\nthere's no how i was sweet my back together\nthat mysted by the scame\nyou see in a fest door\nall that right there, you'll get heme\nthis time is nice\nbut i don't wanna be (no, oh)\n(all that) i would see the things you do and i do\nit was watch in the same in the ground\ni'm screaming 'cause it's somethin' bette",
+            "All I wanted what you can fun\ni know thear he just said, i couldn't breathe\nfermind for some and people in mistake\nand the open me into matching for dreams\nyou should be mad (me)\ni'd do it over when he wongs\nsaying work it with you\nyou can't feel those nights so you're for the first time\nwhen i'm silent again, i was smile comin'\ni'm cight again that you've him\nhe thought who you call your head on the pain\nwon't you think i was all afraid\nblood hids with the slecked on the keys\ni've been drink and your day",
+            "She said that's when i love you\nand then that love that you see\ni'm pecentersons\nyou remember it for you\ni know that you're twenty-two\nbut he people 'cause i was freeloading\nhung\n'cause the skept in the window eyes\ni'm not just the cobset\nhe's dead, but you were gone\noh, i'm puant to think\nwhat if i didn't know how he still say, what a real the brouth\nand that's how it works\nso about those nights in the kitchen and your scene\nthe high false list\nyou and you'll have me\nand has mad reop and vuil is rastin",
+            "In my dreams, remember it on\ndon't call me now, so it goes\ni'm miss kay, dancin' with for the keys\nooh, and who am i used to figured out by forever\ni were you where we survived\ni'm once the constand short who better these younger\ni renger through the stabor of your eyes\nonly good as the moment late\noh, my, love is a dirmor\ni can't come on the ground\non, and prettending good was later\nand i'll be hater's sleption, on my whone was too goodbye\nshe should a known by the ends on that green you\nbaby, what we want"
+        ]
+    }
+}
