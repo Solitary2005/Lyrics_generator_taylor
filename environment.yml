@@ -1,0 +1,15 @@
+name: taylor_lyrics
+channels:
+  - pytorch
+  - conda-forge
+  - nvidia  
+  - defaults
+dependencies:
+  - python=3.10.8
+  - pytorch=2.1.2=py3.10_cuda12.1*  
+  - torchvision 
+  - matplotlib
+  - numpy
+  - nltk
+  - scipy
+  - tensorboard
